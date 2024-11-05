@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SMSRecieverApp</string>
+    <string name="title">SMS Receiver App</string>
 </resources>
